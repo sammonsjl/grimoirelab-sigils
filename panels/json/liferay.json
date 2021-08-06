@@ -8,12 +8,12 @@
                 "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
             },
             "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
-            "panelsJSON": "[{\"panelIndex\":\"2\",\"gridData\":{\"x\":32,\"y\":0,\"w\":16,\"h\":8,\"i\":\"2\"},\"id\":\"liferay_blog_main_metrics\",\"title\":\"Liferay Blog\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"panelIndex\":\"3\",\"gridData\":{\"x\":16,\"y\":8,\"w\":16,\"h\":8,\"i\":\"3\"},\"title\":\"Liferay Ask Orgs\",\"id\":\"liferay_orgs\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"panelIndex\":\"4\",\"gridData\":{\"x\":0,\"y\":8,\"w\":16,\"h\":8,\"i\":\"4\"},\"title\":\"Liferay Ask Questions and Answers\",\"id\":\"liferay_qa_evolutionary\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"panelIndex\":\"5\",\"gridData\":{\"x\":0,\"y\":16,\"w\":16,\"h\":8,\"i\":\"5\"},\"title\":\"Liferay Ask  Participants\",\"id\":\"liferay_evolutionary_submitters\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"panelIndex\":\"6\",\"gridData\":{\"x\":16,\"y\":16,\"w\":16,\"h\":8,\"i\":\"6\"},\"title\":\"Liferay Blog Orgs\",\"id\":\"liferay_blog_orgs\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"title\":\"Liferay Blog Posts\",\"panelIndex\":\"7\",\"gridData\":{\"x\":32,\"y\":8,\"w\":16,\"h\":8,\"i\":\"7\"},\"id\":\"liferay__blog_evolutionary\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"title\":\"Liferay Blog Participants\",\"panelIndex\":\"8\",\"gridData\":{\"x\":32,\"y\":16,\"w\":16,\"h\":8,\"i\":\"8\"},\"id\":\"liferay_blog_evolutionary_submitters\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"panelIndex\":\"9\",\"gridData\":{\"x\":16,\"y\":0,\"w\":16,\"h\":8,\"i\":\"9\"},\"id\":\"liferay_posts_with_answers\",\"title\":\"Liferay Ask Questions and Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\",\"embeddableConfig\":{\"vis\":{\"legendOpen\":true}}},{\"title\":\"Liferay Forum Top Participants\",\"panelIndex\":\"10\",\"gridData\":{\"x\":0,\"y\":24,\"w\":24,\"h\":12,\"i\":\"10\"},\"id\":\"liferay_top_posters\",\"type\":\"visualization\",\"version\":\"6.8.6\",\"embeddableConfig\":{\"vis\":{\"params\":{\"config\":{\"searchKeyword\":\"\"},\"sort\":{\"columnIndex\":null,\"direction\":null}}}}},{\"title\":\"Liferay Blog Top Participants\",\"panelIndex\":\"11\",\"gridData\":{\"x\":24,\"y\":24,\"w\":24,\"h\":12,\"i\":\"11\"},\"version\":\"6.8.6\",\"type\":\"visualization\",\"id\":\"liferay_blog_top_posters\",\"embeddableConfig\":{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}},{\"gridData\":{\"x\":0,\"y\":0,\"w\":16,\"h\":8,\"i\":\"12\"},\"version\":\"6.8.6\",\"panelIndex\":\"12\",\"type\":\"visualization\",\"id\":\"liferay_questions_main_metrics\",\"embeddableConfig\":{},\"title\":\"Liferay Ask\"}]",
+            "panelsJSON": "[{\"gridData\":{\"x\":0,\"y\":21,\"w\":12,\"h\":8,\"i\":\"3\"},\"id\":\"liferay_orgs\",\"panelIndex\":\"3\",\"title\":\"Particpant Organization\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"gridData\":{\"x\":31,\"y\":0,\"w\":17,\"h\":14,\"i\":\"4\"},\"id\":\"liferay_qa_evolutionary\",\"panelIndex\":\"4\",\"title\":\"Liferay Ask Questions and Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":31,\"y\":14,\"w\":17,\"h\":15,\"i\":\"13\"},\"id\":\"9e3e4870-f0b9-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"13\",\"title\":\"Top 20 Question Tags\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":12,\"y\":15,\"w\":19,\"h\":14,\"i\":\"14\"},\"id\":\"579b1ac0-f0bd-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"14\",\"title\":\"Liferay Ask Top People Answering\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":29,\"w\":24,\"h\":13,\"i\":\"15\"},\"id\":\"222474d0-f159-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"15\",\"title\":\"Liferay Ask Last 50 Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":0,\"w\":12,\"h\":13,\"i\":\"17\"},\"id\":\"8b45b5c0-f620-11eb-a868-bb5a352dbc80\",\"panelIndex\":\"17\",\"title\":\"Product Teams\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":12,\"y\":0,\"w\":19,\"h\":15,\"i\":\"18\"},\"id\":\"liferay_top_posters\",\"panelIndex\":\"18\",\"title\":\"Liferay Ask Top Particpants\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":13,\"w\":12,\"h\":8,\"i\":\"19\"},\"id\":\"liferay_posts_with_answers\",\"panelIndex\":\"19\",\"title\":\"Liferay Posts with Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":24,\"y\":29,\"w\":24,\"h\":13,\"i\":\"20\"},\"id\":\"2448f290-f627-11eb-a868-bb5a352dbc80\",\"panelIndex\":\"20\",\"title\":\"Liferay Ask Top Unanswered Questions\",\"type\":\"visualization\",\"version\":\"6.8.6\"}]",
             "refreshInterval": {
                 "pause": true,
                 "value": 0
             },
-            "release_date": "2021-07-08T21:00:25.889529",
+            "release_date": "2021-08-06T18:20:15.696185",
             "timeFrom": "now-60d",
             "timeRestore": true,
             "timeTo": "now",
@@ -21,21 +21,28 @@
             "version": 1
         }
     },
-    "searches": [],
-    "visualizations": [
+    "searches": [
         {
-            "id": "liferay_blog_main_metrics",
+            "id": "Search:_is_stackexchange_answer:1",
             "value": {
+                "columns": [
+                    "_source"
+                ],
                 "description": "",
+                "hits": 0,
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay_blog\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"is_liferay_answer:1\",\"language\":\"lucene\"},\"filter\":[],\"highlight\":{\"pre_tags\":[\"@kibana-highlighted-field@\"],\"post_tags\":[\"@/kibana-highlighted-field@\"],\"fields\":{\"*\":{}},\"require_field_match\":false,\"fragment_size\":2147483647},\"highlightAll\":true,\"version\":true}"
                 },
-                "title": "liferay_blog_main_metrics",
-                "uiStateJSON": "{}",
-                "version": 1,
-                "visState": "{\"title\":\"liferay_blog_main_metrics\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":12}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Blog Entries\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"cardinality\",\"schema\":\"metric\",\"params\":{\"field\":\"author\",\"customLabel\":\"Participants\"}}]}"
+                "sort": [
+                    "grimoire_creation_date",
+                    "desc"
+                ],
+                "title": "Search:_is_liferay_answer:1",
+                "version": 1
             }
-        },
+        }
+    ],
+    "visualizations": [
         {
             "id": "liferay_orgs",
             "value": {
@@ -63,68 +70,57 @@
             }
         },
         {
-            "id": "liferay_evolutionary_submitters",
+            "id": "9e3e4870-f0b9-11eb-8e4b-c5a1c4ad583d",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "title": "liferay_evolutionary_submitters",
+                "title": " liferay_ask_top_20_tags",
                 "uiStateJSON": "{}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_evolutionary_submitters\",\"type\":\"area\",\"params\":{\"type\":\"area\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"People\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"area\",\"mode\":\"stacked\",\"data\":{\"label\":\"People\",\"id\":\"1\"},\"drawLinesBetweenPoints\":true,\"showCircles\":true,\"interpolate\":\"linear\",\"valueAxis\":\"ValueAxis-1\"}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"cardinality\",\"schema\":\"metric\",\"params\":{\"field\":\"author_uuid\",\"customLabel\":\"People\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"grimoire_creation_date\",\"interval\":\"auto\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{},\"customLabel\":\"Time\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"type\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Type\"}}]}"
+                "visState": "{\"title\":\" liferay_ask_top_20_tags\",\"type\":\"tagcloud\",\"params\":{\"scale\":\"linear\",\"orientation\":\"single\",\"minFontSize\":18,\"maxFontSize\":72,\"showLabel\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"question_tags\",\"size\":20,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\"}}]}"
             }
         },
         {
-            "id": "liferay_blog_orgs",
+            "id": "579b1ac0-f0bd-11eb-8e4b-c5a1c4ad583d",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay_blog\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "title": "liferay_blog_orgs",
-                "uiStateJSON": "{}",
+                "savedSearchId": "Search:_is_stackexchange_answer:1",
+                "title": "liferay_main_people_answering ",
+                "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_blog_orgs\",\"type\":\"pie\",\"params\":{\"type\":\"pie\",\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"isDonut\":true,\"labels\":{\"show\":false,\"values\":true,\"last_level\":true,\"truncate\":100}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"author_org_name\",\"size\":500,\"order\":\"desc\",\"orderBy\":\"1\"}}]}"
+                "visState": "{\"title\":\"liferay_main_people_answering \",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Answers\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Answer Date\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Answer Author\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
             }
         },
         {
-            "id": "liferay__blog_evolutionary",
+            "id": "222474d0-f159-11eb-8e4b-c5a1c4ad583d",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay_blog\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "title": "liferay__blog_evolutionary",
-                "uiStateJSON": "{}",
+                "savedSearchId": "Search:_is_stackexchange_answer:1",
+                "title": "liferay_answered_posts",
+                "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay__blog_evolutionary\",\"type\":\"area\",\"params\":{\"type\":\"area\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Count\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"area\",\"mode\":\"stacked\",\"data\":{\"label\":\"Count\",\"id\":\"1\"},\"drawLinesBetweenPoints\":true,\"showCircles\":true,\"interpolate\":\"linear\",\"valueAxis\":\"ValueAxis-1\"}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"grimoire_creation_date\",\"interval\":\"auto\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{},\"customLabel\":\"Time\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"type\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Type\"}}]}"
+                "visState": "{\"title\":\"liferay_answered_posts\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"headline\",\"size\":50,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Title\"}},{\"id\":\"7\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}},{\"id\":\"6\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Poster\"}}]}"
             }
         },
         {
-            "id": "liferay_blog_evolutionary_submitters",
+            "id": "8b45b5c0-f620-11eb-a868-bb5a352dbc80",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay_blog\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "title": "liferay_blog_evolutionary_submitters",
-                "uiStateJSON": "{}",
+                "title": "liferay_questions_by_product_team",
+                "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_blog_evolutionary_submitters\",\"type\":\"area\",\"params\":{\"type\":\"area\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"People\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"area\",\"mode\":\"stacked\",\"data\":{\"label\":\"People\",\"id\":\"1\"},\"drawLinesBetweenPoints\":true,\"showCircles\":true,\"interpolate\":\"linear\",\"valueAxis\":\"ValueAxis-1\"}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"cardinality\",\"schema\":\"metric\",\"params\":{\"field\":\"author_uuid\",\"customLabel\":\"People\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"grimoire_creation_date\",\"interval\":\"auto\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{},\"customLabel\":\"Time\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"type\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Type\"}}]}"
-            }
-        },
-        {
-            "id": "liferay_posts_with_answers",
-            "value": {
-                "description": "",
-                "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\n  \"index\": \"liferay\",\n  \"filter\": [],\n  \"query\": {\n    \"query\": \"\",\n    \"language\": \"lucene\"\n  }\n}"
-                },
-                "title": "liferay_posts_with_answers",
-                "uiStateJSON": "{}",
-                "version": 1,
-                "visState": "{\n  \"title\": \"liferay_posts_with_answers\",\n  \"type\": \"pie\",\n  \"params\": {\n    \"type\": \"pie\",\n    \"addTooltip\": true,\n    \"addLegend\": true,\n    \"legendPosition\": \"right\",\n    \"isDonut\": true,\n    \"labels\": {\n      \"show\": false,\n      \"values\": true,\n      \"last_level\": true,\n      \"truncate\": 100\n    }\n  },\n  \"aggs\": [\n    {\n      \"id\": \"1\",\n      \"enabled\": true,\n      \"type\": \"count\",\n      \"schema\": \"metric\",\n      \"params\": {}\n    },\n    {\n      \"id\": \"2\",\n      \"enabled\": true,\n      \"type\": \"filters\",\n      \"schema\": \"segment\",\n      \"params\": {\n        \"filters\": [\n          {\n            \"input\": {\n              \"query\": \"is_liferay_answer:1\"\n            },\n            \"label\": \"Answer\"\n          },\n          {\n            \"input\": {\n              \"query\": \"is_liferay_question:1\"\n            },\n            \"label\": \"Question\"\n          }\n        ]\n      }\n    }\n  ]\n}"
+                "visState": "{\"title\":\"liferay_questions_by_product_team\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"is_liferay_question\",\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"is_liferay_answer\",\"customLabel\":\"Answer Count\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"cardinality\",\"schema\":\"metric\",\"params\":{\"field\":\"author_id\",\"customLabel\":\"Participants\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"product_team\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Product Team\"}}]}"
             }
         },
         {
@@ -137,33 +133,33 @@
                 "title": "liferay_top_posters",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_top_posters\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMeticsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Post Author\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Post Date\"}}]}"
+                "visState": "{\"title\":\"liferay_top_posters\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\",\"showMetricsAtAllLevels\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Post Author\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Post Date\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
             }
         },
         {
-            "id": "liferay_blog_top_posters",
+            "id": "liferay_posts_with_answers",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay_blog\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\n  \"index\": \"liferay\",\n  \"filter\": [],\n  \"query\": {\n    \"query\": \"\",\n    \"language\": \"lucene\"\n  }\n}"
                 },
-                "title": "liferay_blog_top_posters",
-                "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
-                "version": 1,
-                "visState": "{\"title\":\"liferay_blog_top_posters\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMeticsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Entries\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Post Date\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Poster\"}}]}"
-            }
-        },
-        {
-            "id": "liferay_questions_main_metrics",
-            "value": {
-                "description": "",
-                "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\n  \"index\": \"liferay\",\n  \"filter\": [],\n  \"query\": {\n    \"language\": \"lucene\",\n    \"query\": \"\"\n  }\n}"
-                },
-                "title": "liferay_questions_main_metrics",
+                "title": "liferay_posts_with_answers",
                 "uiStateJSON": "{}",
                 "version": 1,
-                "visState": "{\n  \"title\": \"liferay_questions_main_metrics\",\n  \"type\": \"metric\",\n  \"params\": {\n    \"addTooltip\": true,\n    \"addLegend\": false,\n    \"type\": \"metric\",\n    \"metric\": {\n      \"percentageMode\": false,\n      \"useRanges\": false,\n      \"colorSchema\": \"Green to Red\",\n      \"metricColorMode\": \"None\",\n      \"colorsRange\": [\n        {\n          \"from\": 0,\n          \"to\": 10000\n        }\n      ],\n      \"labels\": {\n        \"show\": true\n      },\n      \"invertColors\": false,\n      \"style\": {\n        \"bgFill\": \"#000\",\n        \"bgColor\": false,\n        \"labelColor\": false,\n        \"subText\": \"\",\n        \"fontSize\": 12\n      }\n    }\n  },\n  \"aggs\": [\n    {\n      \"id\": \"1\",\n      \"enabled\": true,\n      \"type\": \"sum\",\n      \"schema\": \"metric\",\n      \"params\": {\n        \"field\": \"is_liferay_question\",\n        \"customLabel\": \"Questions\"\n      }\n    },\n    {\n      \"id\": \"2\",\n      \"enabled\": true,\n      \"type\": \"sum\",\n      \"schema\": \"metric\",\n      \"params\": {\n        \"field\": \"is_liferay_answer\",\n        \"customLabel\": \"Answers\"\n      }\n    },\n    {\n      \"id\": \"3\",\n      \"enabled\": true,\n      \"type\": \"cardinality\",\n      \"schema\": \"metric\",\n      \"params\": {\n        \"field\": \"author_id\",\n        \"customLabel\": \"Participants\"\n      }\n    }\n  ]\n}"
+                "visState": "{\"title\":\"liferay_posts_with_answers\",\"type\":\"pie\",\"params\":{\"type\":\"pie\",\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"isDonut\":true,\"labels\":{\"show\":false,\"values\":true,\"last_level\":true,\"truncate\":100}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"filters\",\"schema\":\"segment\",\"params\":{\"filters\":[{\"input\":{\"query\":\"is_liferay_answer:1\"},\"label\":\"Answer\"},{\"input\":{\"query\":\"is_liferay_question:1\"},\"label\":\"Question\"}]}}]}"
+            }
+        },
+        {
+            "id": "2448f290-f627-11eb-a868-bb5a352dbc80",
+            "value": {
+                "description": "",
+                "kibanaSavedObjectMeta": {
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[{\"meta\":{\"index\":\"liferay\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"is_liferay_answered\",\"value\":\"0\",\"params\":{\"query\":0,\"type\":\"phrase\"}},\"query\":{\"match\":{\"is_liferay_answered\":{\"query\":0,\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+                },
+                "title": "liferay_unanswered_questions",
+                "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
+                "version": 1,
+                "visState": "{\"title\":\"liferay_unanswered_questions\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"min\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\",\"customLabel\":\"Date\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"viewCount\",\"customLabel\":\"Views\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"headline\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"2\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Title\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"2\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Poster\"}}]}"
             }
         }
     ]
