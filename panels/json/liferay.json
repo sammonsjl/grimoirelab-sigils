@@ -23,7 +23,7 @@
     },
     "searches": [
         {
-            "id": "Search:_is_stackexchange_answer:1",
+            "id": "Search:_is_liferay_answer:1",
             "value": {
                 "columns": [
                     "_source"
@@ -89,7 +89,7 @@
                 "kibanaSavedObjectMeta": {
                     "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "savedSearchId": "Search:_is_stackexchange_answer:1",
+                "savedSearchId": "Search:_is_liferay_answer:1",
                 "title": "liferay_main_people_answering ",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
@@ -103,7 +103,7 @@
                 "kibanaSavedObjectMeta": {
                     "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "savedSearchId": "Search:_is_stackexchange_answer:1",
+                "savedSearchId": "Search:_is_liferay_answer:1",
                 "title": "liferay_answered_posts",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
