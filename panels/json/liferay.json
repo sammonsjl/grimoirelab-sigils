@@ -8,12 +8,12 @@
                 "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
             },
             "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
-            "panelsJSON": "[{\"gridData\":{\"x\":0,\"y\":25,\"w\":13,\"h\":8,\"i\":\"3\"},\"id\":\"liferay_orgs\",\"panelIndex\":\"3\",\"title\":\"Particpant Organization\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"gridData\":{\"x\":31,\"y\":0,\"w\":17,\"h\":14,\"i\":\"4\"},\"id\":\"liferay_qa_evolutionary\",\"panelIndex\":\"4\",\"title\":\"Liferay Ask Questions and Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":31,\"y\":14,\"w\":17,\"h\":19,\"i\":\"13\"},\"id\":\"9e3e4870-f0b9-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"13\",\"title\":\"Top 20 Question Tags\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":13,\"y\":14,\"w\":18,\"h\":19,\"i\":\"14\"},\"id\":\"579b1ac0-f0bd-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"14\",\"title\":\"Liferay Ask Top People Answering\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":33,\"w\":24,\"h\":29,\"i\":\"15\"},\"id\":\"222474d0-f159-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"15\",\"title\":\"Liferay Ask Last 50 Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":0,\"w\":13,\"h\":17,\"i\":\"17\"},\"id\":\"8b45b5c0-f620-11eb-a868-bb5a352dbc80\",\"panelIndex\":\"17\",\"title\":\"Product Teams\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":13,\"y\":0,\"w\":18,\"h\":14,\"i\":\"18\"},\"id\":\"liferay_top_posters\",\"panelIndex\":\"18\",\"title\":\"Liferay Ask Top Particpants\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":17,\"w\":13,\"h\":8,\"i\":\"19\"},\"id\":\"liferay_posts_with_answers\",\"panelIndex\":\"19\",\"title\":\"Liferay Posts with Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":24,\"y\":33,\"w\":24,\"h\":29,\"i\":\"20\"},\"id\":\"2448f290-f627-11eb-a868-bb5a352dbc80\",\"panelIndex\":\"20\",\"title\":\"Liferay Ask Top Unanswered Questions\",\"type\":\"visualization\",\"version\":\"6.8.6\"}]",
+            "panelsJSON": "[{\"gridData\":{\"x\":0,\"y\":21,\"w\":13,\"h\":7,\"i\":\"3\"},\"id\":\"liferay_orgs\",\"panelIndex\":\"3\",\"title\":\"Organizations\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"gridData\":{\"x\":31,\"y\":0,\"w\":17,\"h\":14,\"i\":\"4\"},\"id\":\"liferay_qa_evolutionary\",\"panelIndex\":\"4\",\"title\":\"Liferay Ask Questions and Answers\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":31,\"y\":14,\"w\":17,\"h\":14,\"i\":\"13\"},\"id\":\"9e3e4870-f0b9-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"13\",\"title\":\"Top 20 Question Tags\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":13,\"y\":14,\"w\":18,\"h\":14,\"i\":\"14\"},\"id\":\"579b1ac0-f0bd-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"14\",\"title\":\"Liferay Ask Top People Answering\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":28,\"w\":24,\"h\":26,\"i\":\"15\"},\"id\":\"222474d0-f159-11eb-8e4b-c5a1c4ad583d\",\"panelIndex\":\"15\",\"title\":\"Liferay Ask Latest Questions\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":0,\"w\":13,\"h\":14,\"i\":\"17\"},\"id\":\"8b45b5c0-f620-11eb-a868-bb5a352dbc80\",\"panelIndex\":\"17\",\"title\":\"Product Teams\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":13,\"y\":0,\"w\":18,\"h\":14,\"i\":\"18\"},\"id\":\"liferay_top_posters\",\"panelIndex\":\"18\",\"title\":\"Liferay Ask Top People Posting\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":0,\"y\":14,\"w\":13,\"h\":7,\"i\":\"19\"},\"id\":\"liferay_posts_with_answers\",\"panelIndex\":\"19\",\"title\":\"Liferay Ask Answered vs Unanswered\",\"type\":\"visualization\",\"version\":\"6.8.6\"},{\"embeddableConfig\":{},\"gridData\":{\"x\":24,\"y\":28,\"w\":24,\"h\":26,\"i\":\"20\"},\"id\":\"2448f290-f627-11eb-a868-bb5a352dbc80\",\"panelIndex\":\"20\",\"type\":\"visualization\",\"version\":\"6.8.6\",\"title\":\"Liferay Ask Top Questions\"}]",
             "refreshInterval": {
                 "pause": true,
                 "value": 0
             },
-            "release_date": "2021-08-12T20:30:18.855807",
+            "release_date": "2021-08-18T23:23:10.188266",
             "timeFrom": "now-60d",
             "timeRestore": true,
             "timeTo": "now",
@@ -21,27 +21,7 @@
             "version": 1
         }
     },
-    "searches": [
-        {
-            "id": "Search:_is_liferay_answer:1",
-            "value": {
-                "columns": [
-                    "_source"
-                ],
-                "description": "",
-                "hits": 0,
-                "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"is_liferay_answer:1\",\"language\":\"lucene\"},\"filter\":[],\"highlight\":{\"pre_tags\":[\"@kibana-highlighted-field@\"],\"post_tags\":[\"@/kibana-highlighted-field@\"],\"fields\":{\"*\":{}},\"require_field_match\":false,\"fragment_size\":2147483647},\"highlightAll\":true,\"version\":true}"
-                },
-                "sort": [
-                    "grimoire_creation_date",
-                    "desc"
-                ],
-                "title": "Search:_is_liferay_answer:1",
-                "version": 1
-            }
-        }
-    ],
+    "searches": [],
     "visualizations": [
         {
             "id": "liferay_orgs",
@@ -87,13 +67,12 @@
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+                    "searchSourceJSON": "{\"query\":{\"query\":\"is_liferay_answer:1\",\"language\":\"lucene\"},\"filter\":[],\"index\":\"liferay\"}"
                 },
-                "savedSearchId": "Search:_is_liferay_answer:1",
                 "title": "liferay_main_people_answering ",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_main_people_answering \",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Answers\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Answer Date\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Answer Author\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
+                "visState": "{\"title\":\"liferay_main_people_answering \",\"type\":\"table\",\"params\":{\"perPage\":5,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Answers\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Answer Date\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Answer Author\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
             }
         },
         {
@@ -106,7 +85,7 @@
                 "title": "liferay_last_50_questions",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_last_50_questions\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\",\"customLabel\":\"Date\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"headline\",\"size\":50,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Title\"}},{\"id\":\"7\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}},{\"id\":\"6\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Poster\"}}]}"
+                "visState": "{\"title\":\"liferay_last_50_questions\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\",\"customLabel\":\"Date\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"headline\",\"size\":200,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Title\"}},{\"id\":\"7\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}},{\"id\":\"6\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Poster\"}}]}"
             }
         },
         {
@@ -119,7 +98,7 @@
                 "title": "liferay_questions_by_product_team",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_questions_by_product_team\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"is_liferay_question\",\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"numberOfMessageBoardMessages\",\"customLabel\":\"Answers\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"hasValidAnswer\",\"customLabel\":\"Accepted\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"product_team\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Product Team\"}}]}"
+                "visState": "{\"title\":\"liferay_questions_by_product_team\",\"type\":\"table\",\"params\":{\"perPage\":5,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"is_liferay_question\",\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"numberOfMessageBoardMessages\",\"customLabel\":\"Answers\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"hasValidAnswer\",\"customLabel\":\"Accepted\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"product_team\",\"size\":1000,\"order\":\"asc\",\"orderBy\":\"_key\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Product Team\"}}]}"
             }
         },
         {
@@ -127,12 +106,12 @@
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"filter\":[{\"meta\":{\"index\":\"liferay\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"is_liferay_question\",\"value\":\"1\",\"params\":{\"query\":1,\"type\":\"phrase\"}},\"query\":{\"match\":{\"is_liferay_question\":{\"query\":1,\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
                 },
                 "title": "liferay_top_posters",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_top_posters\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\",\"showMetricsAtAllLevels\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Post Author\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Post Date\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
+                "visState": "{\"title\":\"liferay_top_posters\",\"type\":\"table\",\"params\":{\"perPage\":5,\"showPartialRows\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\",\"showMetricsAtAllLevels\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Posts\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Post Author\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\",\"customLabel\":\"Last Post Date\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
             }
         },
         {
@@ -140,12 +119,12 @@
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\n  \"index\": \"liferay\",\n  \"filter\": [],\n  \"query\": {\n    \"query\": \"\",\n    \"language\": \"lucene\"\n  }\n}"
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
                 },
                 "title": "liferay_posts_with_answers",
                 "uiStateJSON": "{}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_posts_with_answers\",\"type\":\"pie\",\"params\":{\"type\":\"pie\",\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"isDonut\":true,\"labels\":{\"show\":false,\"values\":true,\"last_level\":true,\"truncate\":100}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"filters\",\"schema\":\"segment\",\"params\":{\"filters\":[{\"input\":{\"query\":\"is_liferay_answer:1\"},\"label\":\"Answer\"},{\"input\":{\"query\":\"is_liferay_question:1\"},\"label\":\"Question\"}]}}]}"
+                "visState": "{\"title\":\"liferay_posts_with_answers\",\"type\":\"pie\",\"params\":{\"type\":\"pie\",\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"isDonut\":true,\"labels\":{\"show\":false,\"values\":true,\"last_level\":true,\"truncate\":100}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"filters\",\"schema\":\"segment\",\"params\":{\"filters\":[{\"input\":{\"query\":\"is_liferay_answered:0\"},\"label\":\"Unanswered\"},{\"input\":{\"query\":\"is_liferay_answered:1\"},\"label\":\"Answered\"}]}}]}"
             }
         },
         {
@@ -153,13 +132,12 @@
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
-                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[{\"meta\":{\"index\":\"liferay\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"is_liferay_answered\",\"value\":\"0\",\"params\":{\"query\":0,\"type\":\"phrase\"}},\"query\":{\"match\":{\"is_liferay_answered\":{\"query\":0,\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
+                    "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[{\"meta\":{\"index\":\"liferay\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"is_liferay_question\",\"value\":\"1\",\"params\":{\"query\":1,\"type\":\"phrase\"}},\"query\":{\"match\":{\"is_liferay_question\":{\"query\":1,\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}]}"
                 },
-                "title": "liferay_unanswered_questions",
+                "title": "liferay_top_questions_and_answers",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
-                "visState": "{\"title\":\"liferay_unanswered_questions\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"min\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\",\"customLabel\":\"Date\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"viewCount\",\"customLabel\":\"Views\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"headline\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"2\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Title\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"2\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Poster\"}}]}"
+                "visState": "{\"title\":\"liferay_top_questions_and_answers\",\"type\":\"table\",\"params\":{\"perPage\":10,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"min\",\"schema\":\"metric\",\"params\":{\"field\":\"grimoire_creation_date\",\"customLabel\":\"Date\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"viewCount\",\"customLabel\":\"Views\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"headline\",\"size\":200,\"order\":\"desc\",\"orderBy\":\"2\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Title\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"2\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Poster\"}}]}"
             }
         }
     ]
-}
