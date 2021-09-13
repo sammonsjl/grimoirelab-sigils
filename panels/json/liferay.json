@@ -50,33 +50,33 @@
             }
         },
         {
-            "id": "9e3e4870-f0b9-11eb-8e4b-c5a1c4ad583d",
+            "id": "liferay_ask_top_20_tags",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
                     "searchSourceJSON": "{\"index\":\"liferay\",\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
                 },
-                "title": " liferay_ask_top_20_tags",
+                "title": "liferay_ask_top_20_tags",
                 "uiStateJSON": "{}",
                 "version": 1,
                 "visState": "{\"title\":\" liferay_ask_top_20_tags\",\"type\":\"tagcloud\",\"params\":{\"scale\":\"linear\",\"orientation\":\"single\",\"minFontSize\":18,\"maxFontSize\":72,\"showLabel\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"question_tags\",\"size\":20,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\"}}]}"
             }
         },
         {
-            "id": "579b1ac0-f0bd-11eb-8e4b-c5a1c4ad583d",
+            "id": "liferay_main_people_answering",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
                     "searchSourceJSON": "{\"query\":{\"query\":\"is_liferay_answer:1\",\"language\":\"lucene\"},\"filter\":[],\"index\":\"liferay\"}"
                 },
-                "title": "liferay_main_people_answering ",
+                "title": "liferay_main_people_answering",
                 "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null},\"config\":{\"searchKeyword\":\"\"}}}}",
                 "version": 1,
                 "visState": "{\"title\":\"liferay_main_people_answering \",\"type\":\"table\",\"params\":{\"perPage\":5,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"showTotal\":false,\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Answers\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"creation_date\",\"customLabel\":\"Last Answer Date\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_name\",\"size\":1000,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Answer Author\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"author_link\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"URL\"}}]}"
             }
         },
         {
-            "id": "222474d0-f159-11eb-8e4b-c5a1c4ad583d",
+            "id": "liferay_last_50_questions",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
@@ -89,7 +89,7 @@
             }
         },
         {
-            "id": "8b45b5c0-f620-11eb-a868-bb5a352dbc80",
+            "id": "liferay_questions_by_product_team",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
@@ -128,7 +128,7 @@
             }
         },
         {
-            "id": "2448f290-f627-11eb-a868-bb5a352dbc80",
+            "id": "liferay_top_questions_and_answers",
             "value": {
                 "description": "",
                 "kibanaSavedObjectMeta": {
